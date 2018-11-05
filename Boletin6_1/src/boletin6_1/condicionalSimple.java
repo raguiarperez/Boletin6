@@ -17,7 +17,7 @@ public class condicionalSimple {
             System.out.println("é positivo");
         }
       
-        System.out.println("Remata o programa");
+   
     }
     
 }
